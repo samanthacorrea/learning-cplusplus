@@ -1,3 +1,0 @@
-/home/samantha/Projects/learning-cplusplus/local-static/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/samantha/Projects/learning-cplusplus/local-static/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/samantha/Projects/learning-cplusplus/local-static/cmake-build-debug/CMakeFiles/local_static.dir
